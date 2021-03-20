@@ -1,0 +1,5 @@
+#
+# This repo is managed by "percona-release" utility, do not edit!
+#
+deb http://repo.percona.com/psmdb-44/apt focal main
+deb-src http://repo.percona.com/psmdb-44/apt focal main
